@@ -1,23 +1,13 @@
 {
-	"name": "observable",
-	"description": "An event system for JavaScript libraries.",
-	"version": "1.2.0",
-	"license": "MIT/X11",
-	"author": "Florian H. <jscoderr@gmail.com>",
-	"main": "lib/observable.js",
-	"scripts": {
-		"test": "grunt test"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/js-coder/observable.git"
-	},
-	"bugs": {
-		"url" : "http://github.com/js-coder/observable/issues"
-	},
-	"devDependencies": {
-		"grunt": "~0.3",
-		"grunt-contrib-coffee": "~0.3",
-		"grunt-mocha": "~0.1"
-	}
+  "name": "js-coder-observable",
+  "description": "An event system for JavaScript libraries.",
+  "version": "1.2.0",
+  "keywords": [
+    "event",
+    "observer",
+    "emitter"
+  ],
+  "main": "lib/observable.js",
+  "dependencies": {},
+  "license": "MIT"
 }
